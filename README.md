@@ -30,4 +30,4 @@ Berikut adalah hasil dari proses analisis dan perancangan yang telah dilakukan. 
     * *[Lihat Dokumen UAT Lengkap (PDF)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/UAT.pdf)*
 
 * 📝 **GAP Analysis**
-    * *[Lihat Dokumen GAB Analysis Lengkap (PDF)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/GAP ANALYSIS.pdf)*
+    * *[Lihat Dokumen GAB Analysis Lengkap (PDF)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/GABANALYSIS.pdf)*
