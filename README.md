@@ -20,6 +20,8 @@ Berikut adalah hasil dari proses analisis dan perancangan yang telah dilakukan. 
     * *[Lihat Diagram Use Case](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/Use_Case_P1.png)*
     * *[Lihat Flowchart Pendaftaran](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/FlowChartCA.drawio.png)*
     * *[Lihat Entity-Relationship Diagram (ERD)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/ERDCA.drawio.png)*
+    * *[Lihat Flowchart ToBe ](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/FlowchartToBe.drawio.png)*
+    * *[Lihat Flowchart Panitia Meliaht Hasil](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/FPMH.drawio.png)*
 
 * 🎨 **Mockup & Desain Antarmuka**
     * *[Lihat Mockup Desain ](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/mockup_eventify.png)*
@@ -27,8 +29,5 @@ Berikut adalah hasil dari proses analisis dan perancangan yang telah dilakukan. 
 * 📝 **Rencana Pengujian Pengguna (UAT Plan)**
     * *[Lihat Dokumen UAT Lengkap (PDF)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/UAT.pdf)*
 
----
-### Tampilan Diagram Use Case
-*Tampilan di bawah ini adalah contoh dari Use Case Diagram yang telah dibuat untuk menggambarkan interaksi utama pengguna dengan sistem.*
-
-![Diagram Use Case Eventify](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/UseCase_Eventify.png?raw=true)
+* 📝 **GAP Analysis**
+    * *[Lihat Dokumen GAB Analysis Lengkap (PDF)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/GAP ANALYSIS.pdf)*
