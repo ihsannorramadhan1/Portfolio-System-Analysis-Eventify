@@ -22,7 +22,10 @@ Berikut adalah hasil dari proses analisis dan perancangan yang telah dilakukan. 
     * *[Lihat Entity-Relationship Diagram (ERD)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/ERDCA.drawio.png)*
 
 * 🎨 **Mockup & Desain Antarmuka**
-    * *[Lihat Mockup Desain ](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/mockup_eventify.png))*
+    * *[Lihat Mockup Desain ](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/mockup_eventify.png)*
+
+* 📝 **Rencana Pengujian Pengguna (UAT Plan)**
+    * *[Lihat Dokumen UAT Lengkap (PDF)](https://github.com/ihsannorramadha1/Portofolio-System-Analysis-Eventify/blob/main/UAT.pdf)*
 
 ---
 ### Tampilan Diagram Use Case
